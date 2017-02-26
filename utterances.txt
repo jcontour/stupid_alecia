@@ -1,0 +1,3 @@
+WhatDoYouKnowAbout ask alecia search for {slot value|Topic}
+WhatDoYouKnowAbout alecia search for {slot value|Topic}
+WhatDoYouKnowAbout alecia search about {slot value|Topic}
